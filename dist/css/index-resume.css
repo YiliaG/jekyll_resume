@@ -368,7 +368,7 @@ p {
 }
 @media screen and (max-width: 992px) {
     .logo-top-margin {
-        margin-top: 0 !important;
+        margin-top: 40 !important;
         margin-left: 0 !important;
     }
 }
@@ -485,22 +485,7 @@ p {
 .project-hover h4 {
     color: white;
 }
-.project-pages li {
-    display: inline-block;
-}
-.project-pages a {
-    width: 34px;
-    height: 34px;
-    color: #333333;
-    text-align: center;
-    line-height: 34px;
-    display: block;
-    background: #dddddd;
-}
-.project-pages a:hover {
-    background: #5cb48e;
-    color: white;
-}
+
 /*------ contact ------ */
 .contact-form input, .contact-form textarea {
     width: 100%;
